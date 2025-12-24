@@ -20,12 +20,4 @@ I’m a software engineer passionate about intelligent automation and building s
 ---
 
 ## 💻 Tools & Skills
-• Python  
-• RPA  
-• Selenium  
-• OCR  
-• APIs  
-• FastAPI  
-• Docker  
-• CI/CD  
-• Logging  
+Python • RPA • Selenium • OCR • APIs • FastAPI • Docker • CI/CD • Logging 
