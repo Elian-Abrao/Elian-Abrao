@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Elian Abrão
 
-<!--
-**Elian-Abrao/Elian-Abrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Tech Lead | Python | RPA | Backend | DevOps**
 
-Here are some ideas to get you started:
+I’m a software engineer passionate about intelligent automation and building scalable systems. I have experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Enterprise bots and complex automation  
+🔹 Robust backend integrations with APIs and data pipelines  
+🔹 Servers, Docker, CI/CD, and monitoring  
+🔹 Resilient solutions with a strong focus on quality and observability  
+
+---
+
+## 🚀 Highlights
+
+✨ Tech Lead responsible for high-impact automation teams  
+📈 Projects running in real production environments  
+📍 Passionate about solving complex problems with Python  
+
+---
+
+## 💻 Tools & Skills
+• Python  
+• RPA  
+• Selenium  
+• OCR  
+• APIs  
+• FastAPI  
+• Docker  
+• CI/CD  
+• Logging  
