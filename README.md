@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Elian Abrão. CTO and co-founder of eyelid. Software architecture, AI systems and automation." width="100%">
+  <img src="assets/profile-header.svg" alt="Elian Abrão. Co-founder and CTO at eyelid. AI and Automation Tech Lead." width="100%">
 </p>
 
 <p align="center">
@@ -12,17 +12,18 @@
 
 ## Engineering with a product mindset.
 
-I'm **Elian Abrão**, CTO and co-founder of **[eyelid](https://github.com/EyelidSoftware)**, a software company Luigi and I founded on **February 5, 2024**.
+I'm **Elian Abrão**, co-founder and CTO of **[eyelid](https://github.com/EyelidSoftware)**, a software company Luigi and I founded on **February 5, 2024**. We continue to work together on solutions and company decisions, with a shared focus on engineering quality, reliable delivery and user experience.
 
-My work connects **software architecture, AI systems and automation**. I build APIs, integrations and developer tools, with attention to how systems behave in production and how people experience them.
+Through eyelid, I work as a **Tech Lead at TreeInova**, leading initiatives across **AI, machine learning, automation, innovation and R&D**. My role combines team leadership with hands-on work in software architecture, development and production operations.
 
-At eyelid, we develop custom software, integrations and automations. Our focus is thoughtful engineering, reliable delivery and interfaces that make complex work feel simple.
+My experience includes enterprise AI assistants, data and document integrations, and inference infrastructure. I work across the full lifecycle, from early concepts and technical decisions to deployment and ongoing maintenance, keeping the needs of the people using the software in view.
 
 ### What I work on
 
-- **Architecture & backend.** APIs, service boundaries, integrations and maintainable systems.
-- **AI & agent infrastructure.** Runtime bridges, provider gateways, streaming and tools that connect agents to applications.
-- **Automation & operations.** RPA, execution monitoring, structured logs, Docker and deployment workflows.
+- **Technical leadership.** Guiding the team, setting priorities and turning business needs into validated deliveries.
+- **Architecture & product engineering.** APIs, service boundaries, integrations and interfaces designed around real workflows.
+- **AI & automation.** Enterprise assistants, agent tooling, inference infrastructure and automation systems.
+- **Production & operations.** Linux, Docker, deployment workflows, observability and ongoing maintenance.
 
 ## Selected work
 
