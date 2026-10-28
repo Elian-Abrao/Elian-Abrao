@@ -12,7 +12,7 @@
 
 ## Engineering with a product mindset.
 
-I'm **Elian Abrão**, co-founder and CTO of **[eyelid](https://github.com/EyelidSoftware)**, a software company Luigi and I founded on **February 5, 2024**. We continue to work together on solutions and company decisions, with a shared focus on engineering quality, reliable delivery and user experience.
+I'm **Elian Abrão**, co-founder and CTO of **[Eyelid](https://github.com/EyelidSoftware)**, a software company **[Luigi](https://github.com/LuigiNeto01)** and I founded on **February 5, 2024**. We continue to work together on solutions and company decisions, with a shared focus on engineering quality, reliable delivery and user experience.
 
 Through eyelid, I work as a **Tech Lead at TreeInova**, leading initiatives across **AI, machine learning, automation, innovation and R&D**. My role combines team leadership with hands-on work in software architecture, development and production operations.
 
