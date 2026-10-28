@@ -12,7 +12,7 @@
 
 ## Engineering with a product mindset.
 
-I'm **Elian Abrão**, CTO and co-founder of **[eyelid](https://github.com/EyelidSoftware)**, a software company I founded alongside Luigi.
+I'm **Elian Abrão**, CTO and co-founder of **[eyelid](https://github.com/EyelidSoftware)**, a software company Luigi and I founded on **February 5, 2024**.
 
 My work connects **software architecture, AI systems and automation**. I build APIs, integrations and developer tools, with attention to how systems behave in production and how people experience them.
 
